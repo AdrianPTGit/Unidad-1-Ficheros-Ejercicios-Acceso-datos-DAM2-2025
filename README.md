@@ -7,16 +7,16 @@
 - [x] Mostrar ruta absoluta
 
 ## 1.2 Instancia un directorio
-- [ ] Determinar si existe o no existe
-- [ ] Mostrar nombre
-- [ ] Mostrar longitud
-- [ ] Mostrar ruta absoluta
+- [X] Determinar si existe o no existe
+- [X] Mostrar nombre
+- [x] Mostrar longitud
+- [x] Mostrar ruta absoluta
 
 ## 1.3 Crea un fichero
-- [ ] Determinar si se ha creado o si ya existía
+- [x] Determinar si se ha creado o si ya existía
 - Versiones:
-  - [ ] Con **Scanner**
-  - [ ] Con **paso de parámetros en tiempo de ejecución**
+  - [x] Con **Scanner**
+  - [x] Con **paso de parámetros en tiempo de ejecución**
 
 ## 1.4 Crea una carpeta
 - [ ] Determinar si se ha creado o si ya existía
