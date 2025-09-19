@@ -1,10 +1,10 @@
 # 1. Ejercicios Ficheros (File)
 
 ## 1.1 Instancia un fichero
-- [ ] Determinar si existe o no existe
-- [ ] Mostrar nombre
-- [ ] Mostrar longitud
-- [ ] Mostrar ruta absoluta
+- [x] Determinar si existe o no existe
+- [x] Mostrar nombre
+- [x] Mostrar longitud
+- [x] Mostrar ruta absoluta
 
 ## 1.2 Instancia un directorio
 - [ ] Determinar si existe o no existe
